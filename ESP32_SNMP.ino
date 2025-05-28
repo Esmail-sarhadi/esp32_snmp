@@ -10,7 +10,7 @@
 #include <SNMPTrap.h>
 
 // Pin Definitions
-#define LED_PIN     15
+#define LED_PIN     15   
 #define NUM_LEDS    1
 #define DHTPIN      16
 #define RELAY_PIN   12
