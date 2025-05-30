@@ -1,7 +1,7 @@
 #include <UIPEthernet.h>
 #include <WiFi.h>
 #include <WebServer.h>
-#include <SPIFFS.h>
+#include <SPIFFS.h> 
 #include <FastLED.h>
 #include <DHT.h>
 #include <ArduinoJson.h> 
