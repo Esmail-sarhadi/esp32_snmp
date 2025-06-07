@@ -100,7 +100,7 @@ void setup() {
   
   // Initialize SNMP after network setup
   if(usingWiFi) {
-    delay(1000); // Give WiFi time to stabilize
+    delay(1000); // Give WiFi time to stabilize 
     initializeSNMP(&wifiUdp);
   } else {
     delay(1000); // Give Ethernet time to stabilize
