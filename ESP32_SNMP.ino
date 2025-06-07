@@ -3,7 +3,7 @@
 #include <WebServer.h>
 #include <SPIFFS.h> 
 #include <FastLED.h>
-#include <DHT.h>
+#include <DHT.h>   
 #include <ArduinoJson.h> 
 #include <WiFiUdp.h>  
 #include <SNMP_Agent.h>  
