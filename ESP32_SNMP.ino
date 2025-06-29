@@ -18,7 +18,7 @@
 
 // ENC28J60 pins for SPI connection
 #define CS_PIN      5    
-#define SO_PIN      19   
+#define SO_PIN      19    
 #define SI_PIN      23    
 #define SCK_PIN     18   
 
