@@ -31,7 +31,7 @@ const char* password = "12121212";
 
 // Initialize components
 EthernetServer ethernetServer(80);
-WebServer wifiServer(80);
+WebServer wifiServer(80); 
 CRGB leds[NUM_LEDS];
 DHT dht(DHTPIN, DHT11);
 
