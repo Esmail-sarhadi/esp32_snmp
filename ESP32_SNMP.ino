@@ -9,7 +9,7 @@
 #include <SNMP_Agent.h>  
 #include <SNMPTrap.h>    
 
-// Pin Definitions
+// Pin Definitions 
 #define LED_PIN     15   
 #define NUM_LEDS    1
 #define DHTPIN      16
